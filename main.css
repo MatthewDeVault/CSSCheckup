@@ -1,0 +1,19 @@
+.wrapper{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:url(../../assets/upfeathers.png);
+}
+
+.story{
+    text-align: left;
+}
+
+#local{
+    height: 60px;
+    background-color: lightgray;
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+    text-align: left;
+}
